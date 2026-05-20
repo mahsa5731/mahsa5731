@@ -94,8 +94,8 @@ Tech: React, TypeScript, Tailwind CSS
 ## Connect With Me
 
 - GitHub: [github.com/mahsa5731](https://github.com/mahsa5731)
-- LinkedIn: Add your LinkedIn link here
-- Portfolio: Add your portfolio link here
+- LinkedIn: [linkedin.com/in/mahsa--sadeghi](https://www.linkedin.com/in/mahsa--sadeghi/)
+- Portfolio: [bymahsa.com](https://www.bymahsa.com/)
 
 ---
 
